@@ -18,17 +18,20 @@ El programa permite registrar usuarios, administrar inventario de ítems, contro
 Programa académico: Ingeniería Industrial.
 
 Descripción:
-Me considero una persona con buen liderazgo, soy amante de los perros, hago ejercicio en el gimnasio y en mi casa, me gusta leer novelas o libros que hacen una crítica a la sociedad, aunque soy una persona un poco tímida sé cómo actuar y hablar cuando estoy con grupos de personas, también soy una persona muy creativa en cuanto a actividades culturales, trabajos y regalos.
+Tengo 18 años, me considero una persona con buen liderazgo, soy amante de los perros, hago ejercicio en el gimnasio y en mi casa, me gusta leer novelas o libros que hacen una crítica a la sociedad, aunque soy una persona un poco tímida sé cómo actuar y hablar cuando estoy con grupos de personas, también soy una persona muy creativa en cuanto a actividades culturales, trabajos y regalos.
 
 ## Wbuanderley Ramírez Martínez
 Programa académico: Ingeniería Industrial
 
 Descripción:
+Tengo 19 años, me gusta viajar, conocer cosas nuevas y compartir con mi familia.
 
 
 ## Kevin David Pazos Agudelo
 Programa académico: Ingeniería Industrial
+
 Descripción:
+Tengo 21 años, me gusta el fútbol, trabajar, y al igual, compartir tiempo con mi familia.
 
 
 ---
