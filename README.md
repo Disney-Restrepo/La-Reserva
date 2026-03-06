@@ -18,7 +18,7 @@ El programa permite registrar usuarios, administrar inventario de ítems, contro
 Programa académico: Ingeniería Industrial.
 
 Descripción:
--Me considero una persona con buen liderazgo, soy amante de los perros, hago ejercicio en el gimnasio y en mi casa, me gusta leer novelas o libros que hacen una crítica a la sociedad, aunque soy una persona un poco tímida sé cómo actuar y hablar cuando estoy con grupos de personas, también soy una persona muy creativa en cuanto a actividades culturales, trabajos y regalos.
+Me considero una persona con buen liderazgo, soy amante de los perros, hago ejercicio en el gimnasio y en mi casa, me gusta leer novelas o libros que hacen una crítica a la sociedad, aunque soy una persona un poco tímida sé cómo actuar y hablar cuando estoy con grupos de personas, también soy una persona muy creativa en cuanto a actividades culturales, trabajos y regalos.
 
 ## Wbuanderley Ramírez Martínez
 Programa académico: Ingeniería Industrial
