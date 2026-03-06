@@ -4,7 +4,7 @@ Sistema para gestionar préstamos, devoluciones y ventas de objetos.
 El programa permite registrar usuarios, administrar inventario de ítems, controlar préstamos y generar ventas automáticas cuando un préstamo supera el tiempo permitido.
 
 
-#1. Integrantes
+# 1. Integrantes
 
 - Disney Restrepo Enciso – disney.restrepo@udea.edu.co
 - Wbuanderley Ramírez Martínez – Wbuanderley.ramirez@udea.edu.co
@@ -12,7 +12,7 @@ El programa permite registrar usuarios, administrar inventario de ítems, contro
 
 ---
 
-#2. Vínculos académicos y descripción
+# 2. Vínculos académicos y descripción
 
 ## Disney Restrepo Enciso
 Programa académico: Ingeniería Industrial.
@@ -22,10 +22,9 @@ Descripción:
 
 ## Wbuanderley Ramírez Martínez
 Programa académico: Ingeniería Industrial
+
 Descripción:
-- Validación de datos
-- Manejo de archivos
-- Programación orientada a objetos
+
 
 ## Kevin David Pazos Agudelo
 Programa académico: Ingeniería Industrial
