@@ -47,7 +47,9 @@ El proyecto “La Reserva” es un sistema creado para facilitar el préstamo de
 
 # 4. Licencia del software
 
-Este proyecto se distribuye bajo la licencia **MIT License**, la cual permite usar, modificar y distribuir el software manteniendo el reconocimiento de los autores.
+Este proyecto utiliza la licencia **Creative Commons Zero v1.0 Universal (CC0)**.
+Esta licencia permite que cualquier persona pueda usar, modificar, distribuir y reutilizar el software sin restricciones, incluso para fines comerciales. 
+Al utilizar esta licencia, los autores del proyecto renunciamos a los derechos de autor en la medida permitida por la ley, dedicando el software al dominio público para que pueda ser utilizado libremente por cualquier usuario.
 
 ---
 
