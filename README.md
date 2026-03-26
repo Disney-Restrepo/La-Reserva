@@ -77,7 +77,6 @@ Desarrollar un sistema sencillo y funcional que permita gestionar préstamos de 
 
 ## Requisitos funcionales
 
-
 - El sistema debe permitir registrar usuarios con datos como nombre, apellido, documento, correo electrónico y tiempo de préstamo, validando que la información sea correcta.
 - El sistema debe permitir registrar ítems a prestar, incluyendo nombre, categoría, precio, ID único y estado del objeto.
 - El sistema debe permitir realizar préstamos únicamente a usuarios que ya estén registrados.
@@ -92,7 +91,6 @@ Desarrollar un sistema sencillo y funcional que permita gestionar préstamos de 
 - El sistema debe generar reportes como total de préstamos, devoluciones, ventas y estadísticas de usuarios.
 
 ## Requisitos no funcionales
-
 
 - El sistema debe ser fácil de usar mediante un menú en consola claro.
 - El sistema debe validar correctamente los datos ingresados por el usuario.
@@ -128,26 +126,26 @@ Para el desarrollo del proyecto se definieron las siguientes actividades basadas
 
 | Actividad / Entregable                     | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8 | S9 | S10 | S11 | S12 | S13 | S14 | S15 |
 |--------------------------------------------|----|----|----|----|----|----|----|----|----|-----|-----|-----|-----|-----|-----|
-| Organización del equipo                    | X  |    |    |    |    |    |    |    |    |     |     |     |     |     |     |
-| Integrantes                                |    | X  |    |    |    |    |    |    |    |     |     |     |     |     |     |
-| Vínculos académicos                        |    | X  |    |    |    |    |    |    |    |     |     |     |     |     |     |
-| Nombre del proyecto                        |    | X  |    |    |    |    |    |    |    |     |     |     |     |     |     |
-| Licencia                                   |    |    | X  |    |    |    |    |    |    |     |     |     |     |     |     |
-| Visión                                     |    |    | X  |    |    |    |    |    |    |     |     |     |     |     |     |
-| Requisitos                                 |    |    |    | X  |    |    |    |    |    |     |     |     |     |     |     |
-| Plan de proyecto                           |    |    |    | X  |    |    |    |    |    |     |     |     |     |     |     |
-| 🔵 ENTREGA 1                              |    |    |    |    |    |    |    | X  |    |     |     |     |     |     |     |
-| Desarrollo del sistema en Python           |    |    |    |    | X  | X  | X  |    | X  |  X  |     |     |     |     |     |
-| Funcionalidades (usuarios, préstamos, etc) |    |    |    |    |    | X  | X  |    | X  |  X  |     |     |     |     |     |
-| Pruebas del sistema                        |    |    |    |    |    |    |    |    |    |  X  |  X  |     |     |     |     |
-| Corrección de errores                      |    |    |    |    |    |    |    |    |    |     |  X  |  X  |     |     |     |
-| Documentación (manual y código)            |    |    |    |    |    |    |    |    |    |     |     |  X  |  X  |     |     |
-| Preparación entrega final                  |    |    |    |    |    |    |    |    |    |     |     |     |  X  |  X  |     |
-| 🔴 ENTREGA FINAL (2)                       |    |    |    |    |    |    |    |    |    |     |     |     |     |     |  X  |
+| Organización del equipo                    | *  |    |    |    |    |    |    |    |    |     |     |     |     |     |     |
+| Integrantes                                |    | *  |    |    |    |    |    |    |    |     |     |     |     |     |     |
+| Vínculos académicos                        |    | *  |    |    |    |    |    |    |    |     |     |     |     |     |     |
+| Nombre del proyecto                        |    | *  |    |    |    |    |    |    |    |     |     |     |     |     |     |
+| Licencia                                   |    |    | *  |    |    |    |    |    |    |     |     |     |     |     |     |
+| Visión                                     |    |    | *  |    |    |    |    |    |    |     |     |     |     |     |     |
+| Requisitos                                 |    |    |    | *  |    |    |    |    |    |     |     |     |     |     |     |
+| Plan de proyecto                           |    |    |    | *  |    |    |    |    |    |     |     |     |     |     |     |
+| 🔵 ENTREGA 1                              |    |    |    |    |    |    |    | *  |    |     |     |     |     |     |     |
+| Desarrollo del sistema en Python           |    |    |    |    | *  | *  | *  |    | *  |  *  |     |     |     |     |     |
+| Funcionalidades (usuarios, préstamos, etc) |    |    |    |    |    | *  | *  |    | *  |  *  |     |     |     |     |     |
+| Pruebas del sistema                        |    |    |    |    |    |    |    |    |    |  *  |  *  |     |     |     |     |
+| Corrección de errores                      |    |    |    |    |    |    |    |    |    |     |  *  |  *  |     |     |     |
+| Documentación (manual y código)            |    |    |    |    |    |    |    |    |    |     |     |  *  |  *  |     |     |
+| Preparación entrega final                  |    |    |    |    |    |    |    |    |    |     |     |     |  *  |  *  |     |
+| 🔴 ENTREGA FINAL (2)                       |    |    |    |    |    |    |    |    |    |     |     |     |     |     |  *  |
 
 ---
 
-### Presupuesto
+## Presupuesto
 
 El proyecto se desarrolla como práctica académica, por lo que el pago se representa en tiempo de trabajo.
 
