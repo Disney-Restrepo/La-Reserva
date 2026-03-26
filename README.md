@@ -75,7 +75,7 @@ Desarrollar un sistema sencillo y funcional que permita gestionar préstamos de 
 
 # 6. Especificación de requisitos
 
-## Requisitos funcionales
+## Funcionales
 
 - El sistema debe permitir registrar usuarios con datos como nombre, apellido, documento, correo electrónico y tiempo de préstamo, validando que la información sea correcta.
 - El sistema debe permitir registrar ítems a prestar, incluyendo nombre, categoría, precio, ID único y estado del objeto.
@@ -90,7 +90,7 @@ Desarrollar un sistema sencillo y funcional que permita gestionar préstamos de 
 - El sistema debe permitir el acceso a un módulo administrador mediante usuario y contraseña.
 - El sistema debe generar reportes como total de préstamos, devoluciones, ventas y estadísticas de usuarios.
 
-## Requisitos no funcionales
+## No funcionales
 
 - El sistema debe ser fácil de usar mediante un menú en consola claro.
 - El sistema debe validar correctamente los datos ingresados por el usuario.
