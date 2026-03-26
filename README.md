@@ -72,3 +72,91 @@ Desarrollar un sistema sencillo y funcional que permita gestionar préstamos de 
 - Control del inventario.
 - Automatización de procesos.
 - Registro claro de usuarios y transacciones.
+
+# 6. Especificación de requisitos
+
+## Requisitos funcionales
+
+
+- El sistema debe permitir registrar usuarios con datos como nombre, apellido, documento, correo electrónico y tiempo de préstamo, validando que la información sea correcta.
+- El sistema debe permitir registrar ítems a prestar, incluyendo nombre, categoría, precio, ID único y estado del objeto.
+- El sistema debe permitir realizar préstamos únicamente a usuarios que ya estén registrados.
+- El sistema debe validar que el usuario exista antes de permitir realizar un préstamo.
+- El sistema debe permitir registrar devoluciones solo si existen préstamos activos.
+- El sistema debe generar un certificado de devolución cuando un ítem sea devuelto correctamente.
+- El sistema debe generar una factura de venta cuando un préstamo supere los 30 días.
+- El sistema debe calcular el valor total de la venta incluyendo un recargo del 23%.
+- El sistema debe permitir consultar el estado general de los préstamos.
+- El sistema debe almacenar la información en archivos planos.
+- El sistema debe permitir el acceso a un módulo administrador mediante usuario y contraseña.
+- El sistema debe generar reportes como total de préstamos, devoluciones, ventas y estadísticas de usuarios.
+
+## Requisitos no funcionales
+
+
+- El sistema debe ser fácil de usar mediante un menú en consola claro.
+- El sistema debe validar correctamente los datos ingresados por el usuario.
+- El sistema debe ser rápido en la ejecución de las operaciones.
+- El sistema debe ser confiable en el manejo de la información.
+- El sistema debe ser seguro en el acceso al módulo administrador.
+- El sistema debe ser compatible con Python.
+- El sistema debe permitir la lectura y escritura de archivos correctamente.
+- El sistema debe tener una estructura organizada que facilite su mantenimiento.
+- El sistema debe permitir futuras mejoras sin afectar su funcionamiento.
+- El sistema debe permitir exportar datos en formato CSV.
+
+---
+
+## 7. Plan de proyecto
+
+### Actividades
+
+Para el desarrollo del proyecto se definieron las siguientes actividades basadas en los requerimientos del trabajo:
+
+- Organización del equipo y definición de roles
+- Desarrollo de los puntos 1 al 7 (Entrega 1)
+- Desarrollo completo del sistema en Python
+- Implementación de funcionalidades (usuarios, préstamos, devoluciones, ventas)
+- Pruebas del sistema
+- Corrección de errores
+- Documentación final (manual de usuario y código)
+- Preparación de entrega final
+
+---
+
+### Cronograma (Diagrama de Gantt)
+
+| Actividad / Entregable                     | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8 | S9 | S10 | S11 | S12 | S13 | S14 | S15 |
+|--------------------------------------------|----|----|----|----|----|----|----|----|----|-----|-----|-----|-----|-----|-----|
+| Organización del equipo                    | X  |    |    |    |    |    |    |    |    |     |     |     |     |     |     |
+| Integrantes                                |    | X  |    |    |    |    |    |    |    |     |     |     |     |     |     |
+| Vínculos académicos                        |    | X  |    |    |    |    |    |    |    |     |     |     |     |     |     |
+| Nombre del proyecto                        |    | X  |    |    |    |    |    |    |    |     |     |     |     |     |     |
+| Licencia                                   |    |    | X  |    |    |    |    |    |    |     |     |     |     |     |     |
+| Visión                                     |    |    | X  |    |    |    |    |    |    |     |     |     |     |     |     |
+| Requisitos                                 |    |    |    | X  |    |    |    |    |    |     |     |     |     |     |     |
+| Plan de proyecto                           |    |    |    | X  |    |    |    |    |    |     |     |     |     |     |     |
+| 🔵 ENTREGA 1                              |    |    |    |    |    |    |    | X  |    |     |     |     |     |     |     |
+| Desarrollo del sistema en Python           |    |    |    |    | X  | X  | X  |    | X  |  X  |     |     |     |     |     |
+| Funcionalidades (usuarios, préstamos, etc) |    |    |    |    |    | X  | X  |    | X  |  X  |     |     |     |     |     |
+| Pruebas del sistema                        |    |    |    |    |    |    |    |    |    |  X  |  X  |     |     |     |     |
+| Corrección de errores                      |    |    |    |    |    |    |    |    |    |     |  X  |  X  |     |     |     |
+| Documentación (manual y código)            |    |    |    |    |    |    |    |    |    |     |     |  X  |  X  |     |     |
+| Preparación entrega final                  |    |    |    |    |    |    |    |    |    |     |     |     |  X  |  X  |     |
+| 🔴 ENTREGA FINAL (2)                       |    |    |    |    |    |    |    |    |    |     |     |     |     |     |  X  |
+
+---
+
+### Presupuesto
+
+El proyecto se desarrolla como práctica académica, por lo que el pago se representa en tiempo de trabajo.
+
+- Total de horas del proyecto: 50 horas
+- Número de integrantes: 3
+
+Distribución del tiempo:
+
+- Disney Restrepo Enciso: 17 horas
+- Wbuanderley Ramírez Martínez: 17 horas
+- Kevin David Pazos Agudelo: 16 horas
+
