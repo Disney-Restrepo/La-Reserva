@@ -134,14 +134,14 @@ Para el desarrollo del proyecto se definieron las siguientes actividades basadas
 | Visión                                     |    |    | *  |    |    |    |    |    |    |     |     |     |     |     |     |
 | Requisitos                                 |    |    |    | *  |    |    |    |    |    |     |     |     |     |     |     |
 | Plan de proyecto                           |    |    |    | *  |    |    |    |    |    |     |     |     |     |     |     |
-| 🔵 ENTREGA 1                              |    |    |    |    |    |    |    | *  |    |     |     |     |     |     |     |
+| ENTREGA 1                                  |    |    |    |    |    |    |    | *  |    |     |     |     |     |     |     |
 | Desarrollo del sistema en Python           |    |    |    |    | *  | *  | *  |    | *  |  *  |     |     |     |     |     |
 | Funcionalidades (usuarios, préstamos, etc) |    |    |    |    |    | *  | *  |    | *  |  *  |     |     |     |     |     |
 | Pruebas del sistema                        |    |    |    |    |    |    |    |    |    |  *  |  *  |     |     |     |     |
 | Corrección de errores                      |    |    |    |    |    |    |    |    |    |     |  *  |  *  |     |     |     |
 | Documentación (manual y código)            |    |    |    |    |    |    |    |    |    |     |     |  *  |  *  |     |     |
 | Preparación entrega final                  |    |    |    |    |    |    |    |    |    |     |     |     |  *  |  *  |     |
-| 🔴 ENTREGA FINAL (2)                       |    |    |    |    |    |    |    |    |    |     |     |     |     |     |  *  |
+| ENTREGA FINAL (2)                          |    |    |    |    |    |    |    |    |    |     |     |     |     |     |  *  |
 
 ---
 
