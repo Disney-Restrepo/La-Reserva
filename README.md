@@ -160,5 +160,6 @@ Distribución del tiempo:
 
 # 8. Versiones del software
 
-## Primeros cambios: hasta el día 8 del mes 5 se empezó a ejecutar el programa. El día 9 del mismo mes se hicieron cambios en cuanto a la generación del certificado de devolución, ya que a la hora de generarla, aunque el usuario no hubiese excedido los días permitidos y aunque hubiera hecho un préstamo, no se le desplegaba la opción para que realizara su devolución, ahora funciona correctamente.
+## Primeros cambios:
+Hasta el día 8 del mes 5 se empezó a ejecutar el programa. El día 9 del mismo mes se hicieron cambios en cuanto a la generación del certificado de devolución, ya que a la hora de generarla, aunque el usuario no hubiese excedido los días permitidos y aunque hubiera hecho un préstamo, no se le desplegaba la opción para que realizara su devolución, ahora funciona correctamente.
 
