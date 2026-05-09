@@ -105,9 +105,9 @@ Desarrollar un sistema sencillo y funcional que permita gestionar préstamos de 
 
 ---
 
-## 7. Plan de proyecto
+# 7. Plan de proyecto
 
-### Actividades
+## Actividades
 
 Para el desarrollo del proyecto se definieron las siguientes actividades basadas en los requerimientos del trabajo:
 
@@ -157,4 +157,8 @@ Distribución del tiempo:
 - Disney Restrepo Enciso: 17 horas
 - Wbuanderley Ramírez Martínez: 17 horas
 - Kevin David Pazos Agudelo: 16 horas
+
+# 8. Versiones del software
+
+##Primeros cambios: hasta el día 8 del mes 5 se empezó a ejecutar el programa. El día 9 del mismo mes se hicieron cambios en cuanto a la generación del certificado de devolución, ya que a la hora de generarla, aunque el usuario no hubiese excedido los días permitidos y aunque hubiera hecho un préstamo, no se le desplegaba la opción para que realizara su devolución, ahora funciona correctamente.
 
