@@ -163,3 +163,5 @@ Distribución del tiempo:
 ## Primeros cambios:
 Hasta el día 8 del mes 5 se empezó a ejecutar el programa. El día 9 del mismo mes se hicieron cambios en cuanto a la generación del certificado de devolución, ya que a la hora de generarla, aunque el usuario no hubiese excedido los días permitidos y aunque hubiera hecho un préstamo, no se le desplegaba la opción para que realizara su devolución, ahora funciona correctamente.
 
+El pasado 9 de mayo y hoy 1 de junio nos reunimos en horas de la tarde para empezar a culminar detalles en el código utilizado en el proyecto, hoy nos centramos en la parte de devoluciones para que se imprimiera/mostrara los detalles de una devolución, o sea, usuario, ítem devuelto, días prestado y el plazo permitido.
+Solo nos reunimos, la compañera Disney y yo, Wbuanderley, porque el compañero Kevin canceló la materia por razones ajenas a nosotros.
