@@ -150,13 +150,13 @@ Para el desarrollo del proyecto se definieron las siguientes actividades basadas
 El proyecto se desarrolla como práctica académica, por lo que el pago se representa en tiempo de trabajo.
 
 - Total de horas del proyecto: 50 horas
-- Número de integrantes: 3
+- Número de integrantes: 3 (ya somos 2)
 
 Distribución del tiempo:
 
 - Disney Restrepo Enciso: 17 horas
 - Wbuanderley Ramírez Martínez: 17 horas
-- Kevin David Pazos Agudelo: 16 horas
+- Kevin David Pazos Agudelo: 16 horas X
 
 # 8. Versiones del software
 
@@ -165,3 +165,6 @@ Hasta el día 8 del mes 5 se empezó a ejecutar el programa. El día 9 del mismo
 
 El pasado 9 de mayo y hoy 1 de junio nos reunimos en horas de la tarde para empezar a culminar detalles en el código utilizado en el proyecto, hoy nos centramos en la parte de devoluciones para que se imprimiera/mostrara los detalles de una devolución, o sea, usuario, ítem devuelto, días prestado y el plazo permitido.
 Solo nos reunimos, la compañera Disney y yo, Wbuanderley, porque el compañero Kevin canceló la materia por razones ajenas a nosotros.
+
+Hoy se acabó de hacer la última revisión tanto para La Reserva como para el Manual de Usuario, se subió el archivo .ipynb y el .md.   
+En el archivo .ipynb, al final, está también el manual de usuario.
