@@ -164,3 +164,4 @@ Solo nos reunimos, la compañera Disney y yo, Wbuanderley, porque el compañero 
 Hoy se acabó de hacer la última revisión tanto para La Reserva como para el Manual de Usuario, se subió el archivo .ipynb y el .md.   
 En el archivo .ipynb, al final, está también el manual de usuario. 
 Del Readme quitamos al compañero Kevin de los integrantes.
+y por último, se le volvió a enviar la invitación al profesor para ser colaborador.
