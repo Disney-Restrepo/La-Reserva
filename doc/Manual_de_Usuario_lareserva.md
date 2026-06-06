@@ -1,16 +1,16 @@
-#Manual de Usuario — La Reserva
+# Manual de Usuario — La Reserva
 
-##Universidad de Antioquia
+## Universidad de Antioquia
 
-###Algoritmia y Programación 
+### Algoritmia y Programación 
 
-####Desarrolladores:
+#### Desarrolladores:
 
-####Wbuanderley Ramírez Martínez · Disney Restrepo Enciso
+#### Wbuanderley Ramírez Martínez · Disney Restrepo Enciso
 
 ---
 
-###Tabla de Contenido
+### Tabla de Contenido
 
 1. ¿Qué es La Reserva?
 
@@ -40,13 +40,13 @@
 
 ---
 
-#1. ¿Qué es La Reserva?
+# 1. ¿Qué es La Reserva?
 
 La Reserva es un sistema de gestión de préstamos entre amigos desarrollado en Python. Te permite registrar personas, prestar artículos, controlar devoluciones, generar facturas automáticas y consultar reportes, todo desde una consola fácil de usar.
 
 Si alguna vez olvidaste a quién le prestaste algo, esto es para ti.
 
-#2. ¿Qué necesitas para usarlo?
+# 2. ¿Qué necesitas para usarlo?
 
 Antes de empezar, asegúrate de tener lo siguiente:
 
@@ -58,11 +58,11 @@ La librería fpdf instalada. El mismo programa la instala automáticamente cuand
 
 El archivo .ipynb descargado o en tu Google Drive.
 
-####*Si vas a ejecutarlo en Colab, no tienes que instalar absolutamente nada en tu computador.
+#### *Si vas a ejecutarlo en Colab, no tienes que instalar absolutamente nada en tu computador.
 
-#3. ¿Cómo abrir el programa?
+# 3. ¿Cómo abrir el programa?
 
-###Opción Recomendada — Google Colab
+### Opción Recomendada — Google Colab
 
 Ve a https://colab.research.google.com
 
@@ -72,7 +72,7 @@ Una vez abierto, haz clic en "Entorno de ejecución" → "Ejecutar todo" (o usa 
 
 El programa instalará las dependencias y arrancará solo. Verás el banner de La Reserva en la pantalla.
 
-###Opción alternativa — Local (en tu computador)
+### Opción alternativa — Local (en tu computador)
 
 Abre una terminal o símbolo del sistema.
 
@@ -86,7 +86,7 @@ bash   jupyter notebook (archivo del código).ipynb
 
 Ejecuta todas las celdas en orden desde la primera.
 
-#4. El menú principal
+# 4. El menú principal
 
 Cuando el programa arranca, verás el siguiente menú:
 
@@ -108,13 +108,13 @@ Para elegir una opción, escribe el número correspondiente y presiona Enter.
 
 Si escribes un número que no está en el menú, el sistema te avisará que la opción no es válida y te pedirá que intentes de nuevo.
 
-#5. Registrar un usuario
+# 5. Registrar un usuario
 
 Elige la opción 1 en el menú principal. El sistema te pedirá que ingreses los siguientes datos: nombre, apellido, número de documento, correo electronico y días a prestar.
 
 Si ingresas un dato incorrecto, el programa te lo dirá y te pedirá que lo corrijas antes de continuar. No pierdes lo que ya escribiste.
 
-####Ejemplo de registro exitoso:
+#### Ejemplo de registro exitoso:
 
   Nombre    : Laura
 
@@ -128,7 +128,7 @@ Si ingresas un dato incorrecto, el programa te lo dirá y te pedirá que lo corr
 
   OK - Usuario 'Laura Martinez' registrado correctamente.
 
-#6. Registrar un préstamo
+# 6. Registrar un préstamo
 
 Elige la opción 2 en el menú principal.
 
@@ -148,7 +148,7 @@ Certificado_Prestamo_Laura_Martinez_VID001_2026-06-05.pdf
 
 *Un ítem ya prestado no aparece en la lista hasta que sea devuelto.
 
-#7. Registrar una devolución
+# 7. Registrar una devolución
 
 Elige la opción 3 en el menú principal.
 
@@ -166,7 +166,7 @@ Certificado_Devolucion_Laura_Martinez_VID001_2026-06-05.pdf
 
 *Si la persona no tiene préstamos activos, el sistema te avisará y no te dejará continuar.
 
-#8. Consultar ítems con más de 30 días
+# 8. Consultar ítems con más de 30 días
 
 Elige la opción 4 en el menú principal.
 
@@ -194,7 +194,7 @@ Total a pagar
 
 Laura_Martinez_VID001.txt
 
-#9. Consultar artículos prestados
+# 9. Consultar artículos prestados
 
 Elige la opción 5 en el menú principal.
 
@@ -212,7 +212,7 @@ Verás una tabla con todos los préstamos activos, ordenados de mayor a menor ca
 
 Al final de la lista verás un resumen con el total de préstamos activos y el promedio de días que llevan prestados.
 
-#10. Panel de Administrador
+# 10. Panel de Administrador
 
 Elige la opción 6 en el menú principal.
 
@@ -260,7 +260,7 @@ Una vez dentro, verás el panel de administración con estas opciones:
 
 8. Regresa al menú principal.
 
-#11. Archivos que genera el sistema
+# 11. Archivos que genera el sistema
 
 El programa crea y administra automáticamente estos archivos.
 
@@ -268,7 +268,7 @@ Los archivos se encuentran en las carpetas del Colab.
 
 En Colab, las carpetas /data/ y /doc/ se crean dentro de /content/ automáticamente.
 
-#12. Recomendaciones de uso
+# 12. Recomendaciones de uso
 
 El inventario de 20 ítems ya viene cargado la primera vez que ejecutas el programa.
 
@@ -280,7 +280,7 @@ No modifiques manualmente los archivos .csv de la carpeta /data/, ya que podría
 
 Si el programa muestra un error al generar el PDF, revisa que la librería fpdf esté instalada correctamente.
 
-#13. Créditos
+# 13. Créditos
 
 La Reserva
 
