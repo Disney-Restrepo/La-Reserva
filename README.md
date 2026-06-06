@@ -8,7 +8,7 @@ El programa permite registrar usuarios, administrar inventario de ítems, contro
 
 - Disney Restrepo Enciso – disney.restrepo@udea.edu.co
 - Wbuanderley Ramírez Martínez – Wbuanderley.ramirez@udea.edu.co
-- Kevin David Pazos Agudelo – david.pazos@udea.edu.co
+
 
 ---
 
@@ -27,11 +27,6 @@ Descripción:
 Tengo 19 años, me gusta viajar, conocer cosas nuevas y compartir con mi familia.
 
 
-## Kevin David Pazos Agudelo
-Programa académico: Ingeniería Industrial
-
-Descripción:
-Tengo 21 años, me gusta el fútbol, trabajar, y al igual, compartir tiempo con mi familia.
 
 
 ---
@@ -167,4 +162,5 @@ El pasado 9 de mayo y hoy 1 de junio nos reunimos en horas de la tarde para empe
 Solo nos reunimos, la compañera Disney y yo, Wbuanderley, porque el compañero Kevin canceló la materia por razones ajenas a nosotros.
 
 Hoy se acabó de hacer la última revisión tanto para La Reserva como para el Manual de Usuario, se subió el archivo .ipynb y el .md.   
-En el archivo .ipynb, al final, está también el manual de usuario.
+En el archivo .ipynb, al final, está también el manual de usuario. 
+Del Readme quitamos al compañero Kevin de los integrantes.
